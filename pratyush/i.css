@@ -1,0 +1,177 @@
+.outer
+{
+	height:1000px;
+	width:900px;
+	background-color:orangered;
+	border:20px double navy;
+}
+.banner
+{
+	height:200px;
+	width:900px;
+	background-color:white;
+
+
+}
+.menu
+{
+	height:100px;
+	width:900px;
+	background-color:gold
+}
+.work
+{
+	height:400px;
+	width:900px;
+	background-color:lime;
+
+}
+.section
+{
+	height:200px;
+	width:900px;
+	background-color:skyblue;
+}
+.footer
+{
+	height:100px;
+	width:900px;
+	background-color:mistyrose;
+}
+.logoleft
+{
+	height:196px;
+	width:196px;
+	background-color:yellowgreen;
+	float: left;
+	margin:2px;
+}
+.logoright
+{
+	height:196px;
+	width:696px;
+	background-color:yellow;
+	float: right;
+	margin:2px;
+}
+.aa
+{
+	height:96px;
+	width:146px;
+	background-color:azure;
+	float: left;
+	margin:2px;
+}
+.bb
+{
+	height:96px;
+	width:146px;
+	background-color:wheat;
+	float:left;
+	margin:2px;
+
+}
+.cc
+{
+	height:96px;
+	width:150px;
+	background-color:indigo;
+	float:left;
+	margin:2px;
+}
+.dd
+{
+	height:96px;
+	width:446px;
+	background-color:sandybrown;
+	float: right;
+	margin:2px;
+}
+.ee
+{
+	height:400px;
+	width:400px;
+	background-color:gray;
+
+	float: left;
+
+}
+.ff
+{
+	height:400px;
+	width:500px;
+	background-color:thistle;
+	float: right;
+}
+.gg
+{
+	height:200px;
+	width:300px;
+	background-color:steelblue;
+	float: left;
+}
+.hh
+{
+	height:200px;
+	width:300px;
+	background-color:forestgreen;
+	float:left;
+}
+.ii
+{
+	height:200px;
+	width:300px;
+	background-color:rosybrown;
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+}

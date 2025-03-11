@@ -1,0 +1,136 @@
+.outer
+{
+	height:400px;
+	width:800px;
+	background-color:white;
+}
+.banner
+{
+	height:400px;
+	width:200px;
+	background-color:white;
+	float:left;
+}
+.work
+{
+	height:400px;
+	width:400px;
+	background-color:white;
+	float:left;
+
+}
+
+.footer
+{
+	height:400px;
+	width:200px;
+	background-color:white;
+	float:right;
+}
+.aa
+{
+	height:396px;
+	width:196px;
+	background-color:darkgreen;
+	float:left;
+	margin:2px;
+	
+}
+.bb
+{
+	height:100px;
+	width:400px;
+	background-color:darkgreen;
+	margin:2px;
+	
+
+}
+.cc
+{
+	height:300px;
+	width:400px;
+	background-color:white;
+	float:right;
+	
+
+	
+}
+.dd
+{
+	height:96px;
+	width:196px;
+	background-color:red;
+	float:left;
+	margin:2px;
+	
+	
+}
+.ee
+{
+	height:296px;
+	width:196px;
+	background-color:darkgreen;
+	float:right;
+	margin:2px;
+
+	
+}
+.ff
+{
+	height:146px;
+	width:196px;
+	background-color:orange;
+	float:left;
+	margin:2px;
+
+	
+}
+.gg
+{
+	height:146px;
+	width:196px;
+	background-color:red;
+	float:right;
+	margin:2px;
+	
+	
+}
+.hh
+{
+	height:146px;
+	width:196px;
+	background-color:orange;
+	float:left;
+	margin:2px;
+
+	
+}
+.ii
+{
+	height:146px;
+	width:196px;
+	background-color:red;
+	float:right;
+	margin:2px; 
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

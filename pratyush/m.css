@@ -1,0 +1,167 @@
+.outer
+{
+	height:2000px;
+	width:1000px;
+	background-color:cyan;
+}
+.banner
+{
+	height:200px;
+	width:1000px;
+	background-color:grey;
+
+}
+.menu
+{
+	height:400px;
+	width:1000px;
+	background-color:indigo;
+}
+.logo
+{
+	height:400px;
+	width:1000px;
+	background-color:peru;
+}
+.rp
+{
+	height:50px;
+	width:1000px;
+	background-color:white;
+}
+.work1
+{
+	height:300px;
+	width:1000px;
+	background-color:white;
+}
+.work2
+{
+	height:300px;
+	width:1000px;
+	background-color:white;
+}
+.rs
+{
+	height:50px;
+	width:1000px;
+	background-color:white;
+}
+.footer
+{
+	height:300px;
+	width:1000px;
+	background-color:gray;
+}
+.aa
+{
+	height:400px;
+	width:300px;
+	background-color:skyblue;
+	float: left;
+}
+.bb
+{
+	height:400px;
+	width:700px;
+	background-color:wheat;
+	float: right;
+}
+.cc
+{
+	height:200px;
+	width:700px;
+	background-color:orange;
+	float: right;
+}
+.dd
+{
+	height:200px;
+	width:700px;
+	background-color:deeppink;
+	float: right;
+}
+.ee
+{
+	height:200px;
+	width:500px;
+	background-color:lightgreen;
+	float: left;
+}
+.ff
+{
+	height:200px;
+	width:200px;
+	background-color:purple;
+	float: right;
+}
+.gg
+{
+	height:200px;
+	width:200px;
+	background-color:peru;
+	float: left;
+}
+.hh
+{
+	height:200px;
+	width:500px;
+	background-color:blue;
+	float: right;
+}
+.ii
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: left;
+}
+.jj
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: left;
+}
+.kk
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: left;
+}
+.ll
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: right;
+}
+.mm
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: left;
+}
+.nn
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: left;
+}
+.oo
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: left;
+}
+.pp
+{
+	height:300px;
+	width:250px;
+	background-color:white;
+	float: right;
+}

@@ -1,0 +1,267 @@
+.outer
+{
+	height:3100px;
+	width:1000px;
+	background-color:cyan;
+}
+.no
+{
+	height:50px;
+	width:1000px;
+	background-color:black;
+}
+.no1
+{
+	height:50px;
+	width:750px;
+	background-color:crimson;
+	float:left;
+	background:url('photo9.jpg');
+}
+.no2
+{
+	height:50px;
+	width:250px;
+	background-color:black;
+	float:right;
+}	
+	
+.menu
+{
+	height:50px;
+	width:1000px;
+	background-color:red;
+}
+
+.no4
+{
+	height:50px;
+	width:500px;
+	background-color:pink;
+	float:left;
+}
+.no5
+{
+	height:50px;
+	width:500px;
+	background-color:cyan;
+	float:right;
+}
+.banner
+{
+	height:400px;
+	width:1000px;
+	background-color:green;
+}
+.logo
+{
+	height:70px;
+	width:1000px;
+	background-color:yellow;
+}
+.mon
+{
+	height:300px;
+	width:1000px;
+	background-color:black;
+}
+.ab
+{
+	height:70px;
+	width:1000px;
+	background-color:yellow;
+}
+.tue
+{
+	height:300px;
+	width:1000px;
+	background-color:indigo;
+}
+.cd
+{
+	height:70px;
+	width:1000px;
+	background-color:yellow;
+}
+.wed
+{
+	height:300px;
+	width:1000px;
+	background-color:;
+}
+.ef
+{
+	height:70px;
+	width:1000px;
+	background-color:yellow;
+}
+.thu
+
+{
+	height:300px;
+	width:1000px;
+	background-color:skyblue;
+}
+.gh
+{
+	height:70px;
+	width:1000px;
+	background-color:yellow;
+}
+.fri
+{
+	height:300px;
+	width:1000px;
+	background-color:azure;
+}
+.ij
+{
+	height:70px;
+	width:1000px;
+	background-color:yellow;
+}
+.sat
+{
+	height:300px;
+	width:1000px;
+	background-color:lightblue;
+}
+
+.footer
+{
+	height:300px;
+	width:1000px;
+	background-color:gray;
+}
+.kl
+{
+	height:80px;
+	width:1000px;
+	background-color:black;
+}
+.a
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.b
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.c
+{
+	height:300px;
+	width:334px;
+	background-color:black;
+	float:right;
+}
+.d
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.e
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.f
+{
+	height:300px;
+	width:334px;
+	background-color:black;
+	float:right;
+}
+.g
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.h
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.i
+{
+	height:300px;
+	width:334px;
+	background-color:black;
+	float:right;
+}
+.j
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.k
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.l
+{
+	height:300px;
+	width:334px;
+	background-color:black;
+	float:right;
+}
+.m
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.n
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.o
+{
+	height:300px;
+	width:334px;
+	background-color:black;
+	float:right;
+}
+.p
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.q
+{
+	height:300px;
+	width:333px;
+	background-color:black;
+	float:left;
+}
+.r
+{
+	height:300px;
+	width:334px;
+	background-color:black;
+	float:right;
+}

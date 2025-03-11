@@ -1,0 +1,162 @@
+.outer
+{
+	height:1750px;
+	width:1000px;
+	background-color: white;
+}
+.banner
+{
+	height:300px;
+	width:1000px;
+	background-color: cyan;
+}
+.menu
+{
+	height:100px;
+	width:1000px;
+	background-color: blue;
+}
+.page
+{
+	height:100px;
+	width:1000px;
+	background-color: white;
+}
+.work
+{
+	height:300px;
+	width:1000px;
+	background-color: yellow;
+}
+.page1
+{
+	height:100px;
+	width:1000px;
+	background-color: white;
+}
+.work1
+{
+	height:300px;
+	width:1000px;
+	background-color: yellow;
+}
+.page2
+{
+	height:100px;
+	width:1000px;
+	background-color: white;
+}
+.work2
+{
+	height:310px;
+	width:1000px;
+	background-color: white;
+}
+.footer
+{
+	height:140px;
+	width:1000px;
+	background-color: grey;
+}
+.aa
+{
+	height:100px;
+	width:500px;
+	background-color: black;
+	float: left;
+}
+.bb
+{
+	height:100px;
+	width:500px;
+	background-color: pink;
+	float: right;
+}
+
+.cc
+{
+	height:300px;
+	width:250px;
+	background-color: white ;
+	float: left;
+	
+	
+}
+.dd
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.ee
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.ff
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: right;
+}
+.gg
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.hh
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.ii
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.jj
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: right;
+}
+
+.kk
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.ll
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.mm
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: left;
+}
+.nn
+{
+	height:300px;
+	width:250px;
+	background-color: white;
+	float: right;
+}

@@ -1,0 +1,95 @@
+.outer
+{
+	height:600px;
+	width:600px;
+	background-color:white;
+}
+.banner
+{
+	height:596px;
+	width:146px;
+	background-color:blue;
+	float:left;
+	margin:2px;
+}
+.work
+{
+	height:600px;
+	width:300px;
+	background-color:white;
+	float:left;
+}
+.footer
+{
+	height:600px;
+	width:150px;
+	background-color:white;
+	float:right;
+}
+.aa
+{
+	height:196px;
+	width:296px;
+	background-color:deeppink;
+	float:left;
+	margin:2px;
+}
+.bb
+ {
+	height:400px;
+	width:300px;
+	background-color:white;
+	float:right;
+}
+.cc
+{
+	height:196px;
+	width:146px;
+	background-color:black;
+	margin:2px;
+
+}
+.dd
+{
+	height:396px;
+	width:146px;
+	background-color:indigo;
+	margin:2px; 
+
+}
+.ee
+{
+	height:196px;
+	width:146px;
+	background-color:skyblue;
+	float:left;
+	margin:2px;
+
+}
+.ff
+{
+	height:196px;
+	width:146px;
+	background-color:lightgreen;
+	float:left;
+	margin:2px;
+
+}
+.gg
+{
+	height:196px;
+	width:146px;
+	background-color:darkgreen;
+	float:left;
+	margin:2px;
+
+}
+.hh
+{
+	height:196px;
+	width:146px;
+	background-color:#376;
+	float:left;
+	margin:2px;
+
+}
